@@ -1,0 +1,7 @@
+[user]
+	name = sabinyasomadas
+	mail = sabinyatp@gmail.com
+[push]
+	default = current
+[core]
+	autocrlf = true
