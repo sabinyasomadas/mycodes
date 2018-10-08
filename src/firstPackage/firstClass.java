@@ -40,6 +40,8 @@ public class firstClass {
 		driver.switchTo().defaultContent();
 		System.out.println(driver.getTitle());
 		System.out.println("simple check");
+		System.out.println("two");
+		
 		
 		
 		
