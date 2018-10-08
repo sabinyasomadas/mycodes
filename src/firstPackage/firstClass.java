@@ -38,7 +38,8 @@ public class firstClass {
 		driver.switchTo().window(is.next());
 		System.out.println(driver.getTitle());
 		driver.switchTo().defaultContent();
-		System.out.println(driver.getTitle());
+		
+		
 	}
 
 }
